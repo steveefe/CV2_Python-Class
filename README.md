@@ -3,6 +3,7 @@ This traininug is taught by Computer Vision expert from MSU. The course is imple
 
 
 What you will learn from this course
+
 Key concepts of computer Vision & OpenCV.
 Perform image manipulations such as transformations, cropping, blurring, thresholding, edge detection and cropping.
 Segment images by understanding contours, circle, and line detection. How to approximate contours, do contour filtering and ordering as well as approximations.
